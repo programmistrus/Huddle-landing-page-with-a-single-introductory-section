@@ -17,5 +17,5 @@ Issue's: I don't know how to use flex and have problems to create a beatiful tex
 
 Picture: 
 
-![Test Image 6](my_web_1.1.jpg)
+![Test Image 7](design/my_web_1.1.jpg)
 
