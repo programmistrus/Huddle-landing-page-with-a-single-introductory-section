@@ -13,7 +13,10 @@ Coding Date: 01.06.2022
 1) Create Header with logo
 2) Create Body Content
 
-Issue's: I don't know how to use flex and have problems to create a beatiful text next to the image.
+Problem:
+- No experience with flex
+- Site is not responsible
+
 
 Picture: 
 
