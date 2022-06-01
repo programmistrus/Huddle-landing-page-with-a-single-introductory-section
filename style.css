@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url("images/bg-desktop.svg");
+    background-repeat: no-repeat;
+}
+
+nav {
+padding: 25px;
+}
+
+.flex {
+display:flex;
+}
+
+.ai-c {
+    align-items:center;
+}
+
+
+img {
+    float:left;
+}
+.text__content {
+    color:white;
+    display:inline-block;
+    float:right;
+}
